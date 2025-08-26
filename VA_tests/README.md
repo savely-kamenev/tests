@@ -1,1 +1,0 @@
-# tests on vanessa automation
